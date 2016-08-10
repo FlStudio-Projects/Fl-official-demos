@@ -1,3 +1,3 @@
-# Fl Studio �ٷ�Demo
+﻿# Fl Studio 官方Demo
 
 ![image](BigFruit.png)
